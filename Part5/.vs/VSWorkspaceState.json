@@ -5,9 +5,10 @@
     "\\models",
     "\\public",
     "\\public\\css",
+    "\\public\\images",
     "\\views",
     "\\views\\places"
   ],
-  "SelectedNode": "\\views\\places\\new.jsx",
+  "SelectedNode": "\\views\\home.jsx",
   "PreviewInSolutionExplorer": false
 }
